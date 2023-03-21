@@ -15,7 +15,7 @@ public class table
 
             switch (option) {
                 case 1: {
-                    System.out.println("hade number :");
+                    System.out.println("odd number :");
                     System.out.println("enter stat no :");
                     statno = Integer.parseInt(input.next());
                     System.out.println("enter last no :");
